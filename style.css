@@ -19,7 +19,9 @@ body {
 }
 
 .tabs-wrapper {
-   padding: 100px 250px;
+   max-width: 800px;
+   padding-top: 100px;
+   margin: 0 auto;
 }
 
 .tabs {
